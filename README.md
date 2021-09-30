@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ornitorinco133
+- 👀 I’m interested in Python and GitHub Raspberry/Arduino Projects
+- 🌱 I’m currently learning Python
+- 💞️ I am not yet able to cooperate. 
